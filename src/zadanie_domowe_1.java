@@ -10,6 +10,7 @@ public class zadanie_domowe_1 {
         System.out.println("commitowania");
         System.out.println("i ");
         System.out.println("commitowania");
+        System.out.println("przesyłanie na Git");
 
     }
 }
